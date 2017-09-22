@@ -1,6 +1,6 @@
 {
   "name": "dn-template-ng",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Angular template for dawn",
   "main": "./lib/index.js",
   "scripts": {
