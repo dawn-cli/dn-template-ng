@@ -23,7 +23,7 @@ test:
   - name: lint
   - name: unit
 
-publish:
+npm-publish:
   - name: shell
     script:
       - dn test
